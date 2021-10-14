@@ -1,0 +1,2 @@
+// 一行代码获取地址栏拼接的参数
+Object.fromEntries(new URLSearchParams(window.location.search))
