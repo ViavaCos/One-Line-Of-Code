@@ -1,0 +1,2 @@
+// 一行代码获取用户选中的文字
+window.getSelection().toString()
